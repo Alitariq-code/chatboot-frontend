@@ -73,12 +73,6 @@ The chat interface connects to the `API_URL` to send user messages and retrieve 
 }
 ```
 
-**Response**:
-```json
-{
-  "assistant_message": "Response from the assistant bot"
-}
-```
 
 ---
 
