@@ -130,13 +130,15 @@ To build and deploy the application:
    yarn build
    ```
 
-2. Deploy the `build` folder to your preferred hosting platform (e.g., Netlify, Vercel, AWS S3).
 
 
+## Start Server
+To start the application:
+   ```bash
+   npm start
+   ```
 ---
 
 ## Acknowledgments
 - [React](https://reactjs.org/)
 - [Lucide Icons](https://lucide.dev/)
-
-If you encounter any issues or have suggestions, feel free to open an issue or submit a pull request.
