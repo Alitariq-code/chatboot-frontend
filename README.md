@@ -1,6 +1,6 @@
 # Enhanced Chat Interface
 
-This project is a React-based chat interface that connects to backend APIs for chat communication and health monitoring. The interface provides a sleek, responsive design and a user-friendly experience for interacting with an assistant bot. 
+This project is a React-based chat interface that connects to backend APIs for chat communication and health monitoring. The interface provides a sleek, responsive design and a user-friendly experience for interacting with an assistant bot.
 
 ---
 
@@ -73,7 +73,6 @@ The chat interface connects to the `API_URL` to send user messages and retrieve 
 }
 ```
 
-
 ---
 
 ### Health Check API
@@ -126,6 +125,17 @@ To build and deploy the application:
 
 2. Deploy the `build` folder to your preferred hosting platform (e.g., Netlify, Vercel, AWS S3).
 
+---
+
+## How to Start the Application
+To start the development server:
+1. Navigate to the project folder.
+2. Run the following command:
+   ```bash
+   npm start
+   ```
+
+This will start the application, and you can view it in your browser at `http://localhost:3000`.
 
 ---
 
@@ -134,3 +144,4 @@ To build and deploy the application:
 - [Lucide Icons](https://lucide.dev/)
 
 If you encounter any issues or have suggestions, feel free to open an issue or submit a pull request.
+```
